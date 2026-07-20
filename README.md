@@ -49,6 +49,6 @@ ESP32_Bluetooth_Voice_Robot_Servo/：项目完整源代码Arduino工程文件
 test_SERV：360°舵机零点校准工具
 Voice.txt：语音文件 
 
-
-💡原理图文件和PCB文件后续更新
-
+💡注意：
+ESP32_Bluetooth_Voice_Robot_Servo中使用了Arduino中的库函数，使用时需先下载。
+PCB图中的“语音下载”需使用ASR-LINK自动下载器下载
